@@ -1,0 +1,5 @@
+//==//==//==//==//==//==//==//==//==//==//==//==//==//==//==//==//==//==
+Para o funcionamento correto da função carregar/gravar dados referente ao Bolão,
+não delete, mova, renomeie, ou modifique este diretório ou os arquivos.
+
+For correctly operation of the save/load feature of the Bolão, dont delete, move, rename, or modify this directory or the files.
